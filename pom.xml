@@ -12,7 +12,7 @@
 
     <properties>
         <spring.version>5.2.0.RELEASE</spring.version>
-        <mysql.mysql-connector-java.version>8.0.19</mysql.mysql-connector-java.version>
+        <mysql.mysql-connector-java.version>8.0.28</mysql.mysql-connector-java.version>
     </properties>
 
     <dependencies>
